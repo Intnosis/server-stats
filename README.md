@@ -1,3 +1,3 @@
 # server-stats
 #Project URL
-[GitHub Repository](https://github.com/Intnosis/server-stats)
+[GitHub Repository](https://roadmap.sh/projects/server-stats)
